@@ -39,5 +39,5 @@ We built a Bidirectional LSTM Model which is "sequencial 2" on which we trained 
 * https://www.kaggle.com/code/samanfatima7/crushing-it-bilstm-rnn-delivers-94-accuracy [1]
 * https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset/code [2]
 # Accuracy graphs:
-![Accuracy bar charts](Accuracy_bar_chart.jpg)
-![Accuray line graph](Accuracy_line_graph.jpg)
+![Accuracy bar charts](Accuracy_Graphs/Accuracy_bar_charts.png)
+![Accuray line graph](Accuracy_Graphs/Accuracy_line_graph.png)
