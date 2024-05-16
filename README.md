@@ -21,8 +21,6 @@ These are the methods used inorder to remove uneccesary parts from the messages 
 * Tensorflow
 * seaborn
 * matplotlib
-# Usage of data Visualization:
-We have used data visualization inorder to improve the efficiency of the words in the dataset, identify the outliers in the data and to reveal the data patterns and relations of those specific words with the sentiments we have used. [2]
 # Machine Learning algorithms used:
 The input of the dataset will be given to CountVectorizer and then to TfIdfTransformer and then used in these algorithms used as follows:
 * ## SVC algorithm:
